@@ -1,0 +1,14 @@
+ 0 0
+asus 2 3 
+asus 2 3
+asus 3 4 
+qwe 2 6
+dell 2 4 
+asd 3 4
+qwe 2 3 
+ert 2 3
+qwe 2 3 
+asd 2 3 
+joy 2 1
+nuhash 12 12 
+joy 2 443
